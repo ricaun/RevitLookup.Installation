@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ApplicationPackage
+  
+  SchemaVersion="1.0"
+  AutodeskProduct="Revit"
+  Name="RevitLookup"
+  Description="Interactive Revit BIM database exploration tool to view and navigate element properties and relationships."
+  AppVersion="1.0.0" FriendlyVersion="1.0.0"
+  ProductType="Application"
+  Author="Autodesk"
+  HelpFile=""
+  SupportedLocales="Enu"
+  OnlineDocumentation="https://github.com/jeremytammik/RevitLookup"
+  >
+
+  <CompanyDetails Name="Autodesk" Url="www.autodesk.com" Email="" />
+
+  <Components Description="Revit 2017">
+    <RuntimeRequirements OS="Win64" Platform="Revit" SeriesMin="R2017" SeriesMax="R2017" />
+    <ComponentEntry AppName="RevitLookup"
+                    ModuleName="./Contents/2017/RevitLookup.addin">
+    </ComponentEntry>
+  </Components>
+
+  <Components Description="Revit 2018">
+    <RuntimeRequirements OS="Win64" Platform="Revit" SeriesMin="R2018" SeriesMax="R2018" />
+    <ComponentEntry AppName="RevitLookup"
+                    ModuleName="./Contents/2018/RevitLookup.addin">
+    </ComponentEntry>
+  </Components>
+
+  <Components Description="Revit 2019">
+    <RuntimeRequirements OS="Win64" Platform="Revit" SeriesMin="R2019" SeriesMax="R2019" />
+    <ComponentEntry AppName="RevitLookup"
+                    ModuleName="./Contents/2019/RevitLookup.addin">
+    </ComponentEntry>
+  </Components>
+
+  <Components Description="Revit 2020">
+    <RuntimeRequirements OS="Win64" Platform="Revit" SeriesMin="R2020" SeriesMax="R2020" />
+    <ComponentEntry AppName="RevitLookup"
+                    ModuleName="./Contents/2020/RevitLookup.addin">
+    </ComponentEntry>
+  </Components>
+
+  <Components Description="Revit 2021">
+    <RuntimeRequirements OS="Win64" Platform="Revit" SeriesMin="R2021" SeriesMax="R2021" />
+    <ComponentEntry AppName="RevitLookup"
+                    ModuleName="./Contents/2021/RevitLookup.addin">
+    </ComponentEntry>
+  </Components>
+
+  <Components Description="Revit 2022">
+    <RuntimeRequirements OS="Win64" Platform="Revit" SeriesMin="R2022" SeriesMax="R2022" />
+    <ComponentEntry AppName="RevitLookup"
+                    ModuleName="./Contents/2022/RevitLookup.addin">
+    </ComponentEntry>
+  </Components>
+  
+</ApplicationPackage>
