@@ -27,6 +27,11 @@ This is a simple executable configuration with [Inno Setup](http://www.jrsoftwar
 
 If your computer does not have `signtool.exe` you could download the [Windows App Certification Kit](https://docs.microsoft.com/en-us/windows/uwp/debug-test-perf/windows-app-certification-kit) which is included in the [Windows Software Development Kit (SDK)](https://developer.microsoft.com/pt-br/windows/downloads/windows-10-sdk/) for Windows 10.
 
+## License
+
+This library is [licensed](LICENSE) under the [MIT Licence](https://en.wikipedia.org/wiki/MIT_License).
+
+
 ---
 
 Do you like this project? Please [star this project on GitHub](https://github.com/ricaun/RevitLookup.Instalation/stargazers)!
