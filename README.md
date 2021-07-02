@@ -1,6 +1,6 @@
-# RevitLookup.Instalation
+# RevitLookup.Installation
 
-This is a instalation for the project [RevitLookup](https://github.com/jeremytammik/RevitLookup).
+This is a installation for the project [RevitLookup](https://github.com/jeremytammik/RevitLookup).
 
 All the files was sign by [ricaun](https://ricaun.com).
 
