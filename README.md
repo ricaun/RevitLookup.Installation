@@ -6,7 +6,7 @@ All the files are signed by [@ricaun](https://ricaun.com).
 
 ## Versions
 
-The current version is `2022.0.0.14` based on the last [release](https://github.com/jeremytammik/RevitLookup/releases).
+The current version is `2022.0.0.14`, based on the [last release of RevitLookup](https://github.com/jeremytammik/RevitLookup/releases).
 
 The installer includes versions for Revit 2017, 2018, 2019, 2020, 2021 and 2022.
 
