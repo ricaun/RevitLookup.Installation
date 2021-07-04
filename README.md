@@ -26,7 +26,7 @@ This is a simple executable configuration using [Inno Setup](http://www.jrsoftwa
 
 ### Install signtool
 
-If your computer does not have `signtool.exe` you can download
+You can obtain `signtool.exe` by downloading
 the [Windows App Certification Kit](https://docs.microsoft.com/en-us/windows/uwp/debug-test-perf/windows-app-certification-kit) which
 is included in the [Windows Software Development Kit (SDK)](https://developer.microsoft.com/pt-br/windows/downloads/windows-10-sdk/) for
 Windows 10.
