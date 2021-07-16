@@ -10,6 +10,10 @@ The current version is `2022.0.0.14`, based on the [last release of RevitLookup]
 
 The installer includes versions for Revit 2017, 2018, 2019, 2020, 2021 and 2022.
 
+## Download
+
+Download the last release of [RevitLookup.Installation](https://github.com/ricaun/RevitLookup.Installation/releases/download/2022.0.0.14/RevitLookup.2022.0.0.14.zip).
+
 ## Inno Setup
 
 This is a simple executable configuration using [Inno Setup](http://www.jrsoftware.org/isinfo.php) to extract the files to the `ApplicationPlugins` folder.
