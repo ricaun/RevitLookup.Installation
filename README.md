@@ -6,13 +6,16 @@ All the files are signed by [@ricaun](https://ricaun.com).
 
 ## Versions
 
-The current version is `2022.0.0.14`, based on the [last release of RevitLookup](https://github.com/jeremytammik/RevitLookup/releases).
+The current version is `2022.0.1.0`, based on the [last release of RevitLookup](https://github.com/jeremytammik/RevitLookup/releases).
 
 The installer includes versions for Revit 2017, 2018, 2019, 2020, 2021 and 2022.
 
 ## Download
 
-Download the last release of [RevitLookup.Installation](https://github.com/ricaun/RevitLookup.Installation/releases/download/2022.0.0.14/RevitLookup.2022.0.0.14.zip).
+Download the [last release of RevitLookup.Installation](https://github.com/ricaun/RevitLookup.Installation/releases).
+
+* [RevitLookup.2022.0.1.0.zip](https://github.com/ricaun/RevitLookup.Installation/releases/download/2022.0.1.0/RevitLookup.2022.0.1.0.zip)
+* [RevitLookup.2022.0.0.14.zip](https://github.com/ricaun/RevitLookup.Installation/releases/download/2022.0.0.14/RevitLookup.2022.0.0.14.zip)
 
 ## Inno Setup
 
