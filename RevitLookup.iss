@@ -7,7 +7,7 @@
 
 #define AppId "{356CDA5A-E6C5-4c2f-A9EF-B3222116B8C8}"
 #define AppName "RevitLookup"
-#define AppVersion "2022.0.0.14"
+#define AppVersion "2022.0.1.0"
 #define AppPublisher "ricaun"
 #define AppComments "RevitLookup - Plugin Revit"
 #define AppBundle "RevitLookup.bundle"
